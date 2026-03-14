@@ -5,7 +5,12 @@ Console.WriteLine("Calculating area of rectangle with edges " +  x " and " + y "
 int area = x * y;
 Console.WriteLine("Area: " +  area);
 
-CalculateAverage(int[] values)
+int CalculateAverage(int[] values)
 {
-
+    int average = 0;
+    for (int i = 0; i < values.Length; i++)
+    {
+        average += values[i];
+    }
+    return average/values.Length;
 }
