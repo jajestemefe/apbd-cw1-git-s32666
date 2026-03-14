@@ -17,7 +17,7 @@ int CalculateAverage(int[] values)
 
 int CalculateMax(int[] values)
 {
-    int max = 0;
+    int max = values[0];
     for(int i = 0; i < values.Length; i++)
     {
         if (values[i] > max) max = values[i]; 
@@ -26,3 +26,10 @@ int CalculateMax(int[] values)
 }
 
 int CalculareMin(int[] values)
+{
+    int min = values[0];
+    for(int i = 0; i < values.Length; i++)
+    {
+
+    }
+}
