@@ -2,3 +2,4 @@
 Efe Ozarslan s32666
 something
 a small change on main
+main branch wasnt the same as we branched out so fast forward wasnt possible
