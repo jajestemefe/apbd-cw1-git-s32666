@@ -24,3 +24,5 @@ int CalculateMax(int[] values)
     }
     return max;
 }
+
+int CalculareMin(int[] values)
