@@ -36,3 +36,4 @@ int CalculareMin(int[] values)
 }
 
 Console.WriteLine("some changes for the task 7");
+Console.WriteLine("again because i had no conflicts");
