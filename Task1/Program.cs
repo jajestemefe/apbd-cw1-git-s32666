@@ -34,3 +34,5 @@ int CalculareMin(int[] values)
     }
     return min;
 }
+
+Console.WriteLine("some changes for the task 7");
